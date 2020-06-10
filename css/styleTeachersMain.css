@@ -1,0 +1,87 @@
+.navbar1
+.navbar-brand img{
+
+  height:65px;
+  margin-left: 15px;
+}
+.navbar1
+.navbar-nav
+.nav-item
+.nav-link{
+
+  font-size: 20px;
+  margin-left: 40px;
+
+
+}
+
+.navbar1
+.dropdown-menu{
+
+  background-color: #48dbfb;
+  margin-left: 90px;
+}
+
+.navbar1
+.dropdown-menu
+.dropdown-item{
+
+  margin-top: 10px;
+
+}
+
+
+/*   SIDE NAV BAR PROPERTY */
+
+.container
+{
+  position: relative;
+  margin-left: -15px;
+  margin-top: -48px;
+
+
+}
+
+.container
+.nav{
+
+
+  width: 250px;
+  height: 5000px;
+  padding: 10px;
+  background-color: #34495e;
+
+
+}
+
+
+.container
+.nav
+.nav-item{
+
+  margin-top: 15px;
+
+
+}
+
+.container
+.tab-content{
+
+  margin: 50px;
+  padding: 2px;
+  width: 100%;
+  position: absolute;
+  margin-left: 300px;
+  margin-top:-4900px;
+  text-align: center;
+
+}
+
+.container
+.nav
+.nav-item
+.dropdown-menu{
+
+  margin-left: 50px;
+  background-color: #95a5a6;
+}

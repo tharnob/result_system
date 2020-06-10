@@ -1,0 +1,84 @@
+.navbar1
+.navbar-brand img{
+
+  height:65px;
+  margin-left: 15px;
+}
+.navbar1
+.navbar-nav
+.nav-item
+.nav-link{
+
+  font-size: 20px;
+  margin-left: 40px;
+
+
+}
+
+.navbar1
+.dropdown-menu{
+
+  background-color: #48dbfb;
+  margin-left: 90px;
+}
+
+.navbar1
+.dropdown-menu
+.dropdown-item{
+
+  margin-top: 10px;
+
+}
+
+
+/*   SIDE NAV BAR PROPERTY */
+
+.container
+.nav{
+
+  width: 250px;
+  height: 800px;
+  padding: 10px;
+  margin-left: -120px;
+  margin-top: -50px;
+  background-color: #34495e;
+
+
+}
+
+
+.container
+.nav
+.nav-item{
+
+  margin-top: 15px;
+
+
+}
+
+.container
+.tab-content{
+
+  position: absolute;
+  margin-left: 150px;
+  margin-top:-800px;
+
+}
+
+.container
+.nav
+.nav-item
+.dropdown-menu{
+
+  margin-left: 50px;
+  background-color: #95a5a6;
+}
+
+.container
+.nav
+.teacherProfile{
+
+
+
+
+}

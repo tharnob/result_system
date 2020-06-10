@@ -1,0 +1,107 @@
+
+.form_control1
+{
+  margin-top: 40px;
+  width: 250px;
+}
+
+
+.navbar1
+.navbar-brand img{
+
+  height:65px;
+  margin-left: 15px;
+}
+.navbar1
+.navbar-nav
+.nav-item
+.nav-link{
+
+  font-size: 20px;
+  margin-left: 40px;
+
+
+}
+
+.navbar1
+.dropdown-menu{
+
+  background-color: #48dbfb;
+  margin-left: 90px;
+}
+
+.navbar1
+.dropdown-menu
+.dropdown-item{
+
+  margin-top: 10px;
+
+}
+
+
+
+
+/*   SIDE NAV BAR PROPERTY */
+
+.container
+{
+  position: relative;
+  margin-left: -15px;
+  margin-top: -48px;
+
+
+}
+
+
+
+.container
+.nav{
+
+
+  width: 250px;
+  height: 9900px;
+  padding: 10px;
+
+
+  background-color: #34495e;
+
+
+}
+
+
+.container
+.nav
+.nav-item{
+
+  margin-top: 15px;
+
+
+}
+
+.container
+.tab-content{
+
+  position: absolute;
+  margin-left: 280px;
+  margin-top:-9850px;
+
+}
+
+.container
+.nav
+.nav-item
+.dropdown-menu{
+
+  margin-left: 50px;
+  background-color: #95a5a6;
+}
+
+
+.container
+.tab-content
+.search_button_rm_teacher
+{
+
+  padding: 20px;
+  width: 880px;
+}

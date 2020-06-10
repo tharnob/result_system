@@ -1,0 +1,11 @@
+.container
+.border{
+
+  width: 600px;
+  margin-left: 250px;
+}
+.btn-custom{
+  margin-left: 170px;
+  width: 180px;
+  height: 50px;
+}
